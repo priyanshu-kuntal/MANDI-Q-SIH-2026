@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+python-multipart
+sqlalchemy
+asyncpg
+aiosqlite
+python-dotenv
+pydantic
+thefuzz
+python-Levenshtein
+reportlab
+httpx
